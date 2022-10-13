@@ -6,9 +6,6 @@ You should have git installed
 
 git clone https://github.com/leoevasconcelos/rhsso-spi-oracle.git
 
-or you can download current sources as a zip file
-How to build it
-
 You need to have Maven installed
 
 mvn clean package
